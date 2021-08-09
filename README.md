@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ganatrajaydeep.work@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1BJIp5nBz3S4i-U8u4PRalYXGL2pWA6sp/view?usp=sharing](https://drive.google.com/file/d/1BJIp5nBz3S4i-U8u4PRalYXGL2pWA6sp/view?usp=sharing)
+- 📄 Resume [https://drive.google.com/file/d/1BJIp5nBz3S4i-U8u4PRalYXGL2pWA6sp/view?usp=sharing](https://drive.google.com/file/d/1BJIp5nBz3S4i-U8u4PRalYXGL2pWA6sp/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
