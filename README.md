@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=slitheringblob&label=Profile%20views&color=0e75b6&style=flat" alt="slitheringblob" /> </p>
 
-- 🔭 I’m currently working on [Freeder](https://github.com/slitheringblob/Freeder)
+- 🔭 I’m currently working on [Freeder](https://github.com/slitheringblob/Freeder) and [Spotify-Access](https://github.com/slitheringblob/spotify-access)
 
 - 📫 How to reach me **ganatrajaydeep.work@gmail.com**
 
