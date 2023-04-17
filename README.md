@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jaydeep Ganatra</h1>
 <h3 align="center">A fullstack developer from India working on tech that piques my interest!</h3>
-<h1 align="center">P.S It's Elixir and Phoenix Right Now!</h1>
+<h3 align="center">P.S It's Elixir and Phoenix Right Now!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=slitheringblob&label=Profile%20views&color=0e75b6&style=flat" alt="slitheringblob" /> </p>
 
