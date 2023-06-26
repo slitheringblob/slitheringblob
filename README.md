@@ -11,8 +11,12 @@
 <a href="https://linkedin.com/in/jaydeep-ganatra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaydeep-ganatra" height="30" width="40" /></a>
 </p>
 
-![Jaydeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=slitheringblob&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slitheringblob)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=slitheringblob" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=slitheringblob&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+</a>
 
 
 
