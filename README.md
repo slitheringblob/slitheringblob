@@ -10,7 +10,7 @@ into working systems for small and medium businesses.
 Before that: a dense retrieval engine for code across languages (as an ML Fellow), the Karmic
 platform in Elixir and Phoenix LiveView, and vendor payments at HDFC Bank.
 
-### Things I've built
+### What I maintain in my free time
 
 | Project | What it is |
 | --- | --- |
