@@ -1,12 +1,26 @@
-<h1 align="center">Hi 👋, I'm Jaydeep Ganatra</h1>
-<h3 align="center">A fullstack developer from India working on tech that piques my interest!</h3>
-<h3 align="center">P.S It's Elixir and Phoenix Right Now!</h3>
+## Jaydeep Ganatra
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=slitheringblob&label=Profile%20views&color=0e75b6&style=flat" alt="slitheringblob" /> </p>
+Lead AI Solutions Engineer at [thinkbridge](https://thinkbridge.com), based in Surat, India.
 
-- 📫 How to reach me **ganatrajaydeep.work@gmail.com**
-<br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jaydeep-ganatra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaydeep-ganatra" height="30" width="40" /></a>
-</p>
+I build applied machine learning systems, agents and the product software around them:
+retrieval, backend services, cloud infrastructure, and interfaces people can actually use.
+These days I'm working on an internal no-code platform that turns concrete requirements
+into working systems for small and medium businesses.
+
+Before that: a dense retrieval engine for code across languages (as an ML Fellow), the Karmic
+platform in Elixir and Phoenix LiveView, and vendor payments at HDFC Bank.
+
+### Things I've built
+
+| Project | What it is |
+| --- | --- |
+| [nosk](https://github.com/slitheringblob/nosk) | My Obsidian vault on every device, read and written straight from GitHub. Static app, works offline, no server. |
+| [freeder](https://github.com/slitheringblob/freeder) | A fast, opinionated RSS reader. HTML, Tailwind and FastAPI ([backend](https://github.com/slitheringblob/freeder-backend)). |
+
+### Tools
+
+Python · Elixir / Phoenix · FastAPI · React / Next.js · PostgreSQL · AWS, GCP, Azure · Docker
+
+### Elsewhere
+
+[jaydeepganatra.dev](https://jaydeepganatra.dev) · [LinkedIn](https://linkedin.com/in/jaydeep-ganatra) · work@jaydeepganatra.dev
