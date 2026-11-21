@@ -1,6 +1,6 @@
 ## Jaydeep Ganatra
 
-Lead AI Solutions Engineer at [thinkbridge](https://thinkbridge.com), based in Surat, India.
+Lead AI Solutions Engineer at [thinkbridge](https://thinkbridge.com).
 
 I build applied machine learning systems, agents and the product software around them:
 retrieval, backend services, cloud infrastructure, and interfaces people can actually use.
